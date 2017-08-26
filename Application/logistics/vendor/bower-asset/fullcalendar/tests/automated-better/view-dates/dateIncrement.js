@@ -1,3 +1,0 @@
-/*
-SEE: prev/next
-*/
